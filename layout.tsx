@@ -2,7 +2,7 @@
 import { TonConnectUIProvider } from "@tonconnect/ui-react";
 import "./globals.css";
 
-const manifestUrl = "https://project-1-00-git-main-24-hr-runners-projects.vercel.app/";
+const manifestUrl = "https://github.com/lightredcolor/project-1.00/blob/main/metadata.json";
 
 export default function RootLayout({
   children,
